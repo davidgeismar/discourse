@@ -54,7 +54,7 @@ gem 'babel-transpiler'
 
 gem 'message_bus', '2.0.0.beta.11'
 
-gem 'rails_multisite'
+gem 'rails_multisite', '>= 4.0.0'
 
 gem 'fast_xs'
 
